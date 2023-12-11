@@ -1,3 +1,7 @@
-# new_crypto_app
+# CryptoAPP
 
-A new Flutter project.
+FirebaseAuth
+CoingeckoAPI
+
+
+Flutter
