@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780959797622",
+    "project_id": "mt-cryptoapp",
+    "storage_bucket": "mt-cryptoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780959797622:android:5539cd4f117fceb5a16a57",
+        "android_client_info": {
+          "package_name": "com.mt.crypto_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3tJdAWI_Omb5aa8enfv4YPxVh7jZCMRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
