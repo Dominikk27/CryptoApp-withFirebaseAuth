@@ -1,6 +1,7 @@
-# CryptoAPP
+# Android CryptoAPP
 
 FirebaseAuth
+
 CoingeckoAPI
 
 
