@@ -13,13 +13,13 @@ The Flutter CryptoApp with Firebase Auth is a mobile application designed specif
 
 
 ## Preview
-Sign In / Sign Up
-![image](https://github.com/Dominikk27/CryptoApp-withFirebaseAuth/assets/69403234/808cfd30-f35a-4472-af27-54b2022b64e1)
+<p align="center">
+  <img src="https://github.com/Dominikk27/CryptoApp-withFirebaseAuth/assets/69403234/808cfd30-f35a-4472-af27-54b2022b64e1" width="400" alt="Obrázok 1">
+</p>
+<p align="center">
+  <img src="https://github.com/Dominikk27/CryptoApp-withFirebaseAuth/assets/69403234/1a5a8f3f-eec7-4be4-97f3-db86d3258dd5" width="200" alt="Obrázok 3">
+</p>
 
-
-Main Screen
-![image](https://github.com/Dominikk27/CryptoApp-withFirebaseAuth/assets/69403234/1a5a8f3f-eec7-4be4-97f3-db86d3258dd5)
-
-
-Coin Preview
-![image](https://github.com/Dominikk27/CryptoApp-withFirebaseAuth/assets/69403234/2e6dfd1b-5832-4731-8af2-ad3c201c0520)
+<p align="center">
+  <img src="https://github.com/Dominikk27/CryptoApp-withFirebaseAuth/assets/69403234/2e6dfd1b-5832-4731-8af2-ad3c201c0520" width="200" alt="Obrázok 3">
+</p>
